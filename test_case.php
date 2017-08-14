@@ -505,7 +505,7 @@ class SimpleFileLoader
  */
 class TestSuite
 {
-    private $label;
+    public $label;
     private $test_cases;
 
     /**
